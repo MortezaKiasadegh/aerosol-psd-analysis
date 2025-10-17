@@ -31,9 +31,6 @@ Run the main fitting routine:
 ```bash
 <<<<<<< HEAD
 python aerosol_psd_fitting_tool.py
-=======
-python aerosol_psd_fitting_tool.py.py
->>>>>>> d6c5b914df974553d9aeda9d36a8ade405cce0eb
 ```
 
 The script will:
